@@ -2,6 +2,7 @@
   "private": true,
   "name": "stranger-quiz",
   "version": "0.0.0",
+  "main": "src/index.tsx",
   "license": "BSD-3-Clause",
   "type": "module",
   "dependencies": {
